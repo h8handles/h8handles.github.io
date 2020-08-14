@@ -1,27 +1,7 @@
-#intro{
-    text-align: center;
-    
-
-}    
-
-body{
-
-    background: rgb(58, 58, 58);
-    color: white;
-    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
-}
-
 section{
-    background: white;
-    color: grey;
-    padding: 20px;
-    display: flex;
-    flex-direction: row;
+    background-color: whitesmoke;
 }
 
-.topnav{
-    flex-direction: row;
-   
-    
-   
+.list{
+    text-align: center;
 }

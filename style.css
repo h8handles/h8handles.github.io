@@ -5,6 +5,7 @@
 }    
 
 #topnav{
-    border: green;
+    background: whitesmoke;
+    color: grey;
     padding: 20px;
 }

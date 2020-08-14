@@ -1,7 +1,23 @@
 section{
     background-color: whitesmoke;
+    display: flex;
+    flex-direction: row;
+    margin: 0;
+    padding-bottom: 20px;
+    justify-content: center;
 }
+
 
 .list{
     text-align: center;
+}
+
+.flex-container{
+    text-align: left;
+    padding-top: 100px;
+    padding-left: 25px;
+    background-size: 50px;
+    background-color: grey;
+    
+
 }

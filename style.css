@@ -4,8 +4,10 @@
 
 }    
 
-#topnav{
-    background: whitesmoke;
+.topnav{
+    background: red;
     color: grey;
+    display: inline-block;
+    width: 100px;
     padding: 20px;
 }

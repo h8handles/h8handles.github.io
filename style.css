@@ -348,7 +348,7 @@ ul li a:hover {
 .box-container{
     color: whitesmoke;
     background-color: #2b2b2b;
-    width: 50%;
+    width: auto;
     background-size: 100%;
     position: absolute + 3px;
     border-right: 1px solid #1abc9c;

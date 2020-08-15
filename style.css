@@ -354,8 +354,22 @@ ul li a:hover {
     border-right: 1px solid #1abc9c;
     
 }
+.box-container-who{
+    color: whitesmoke;
+    background-color: #2b2b2b;
+    text-align: center;
+    background-size: 100%;
+    position: absolute + 3px;
+    border-right: 1px solid #1abc9c;
+    
+}
 
+.intro h1{
+    
+    color: #1abc9c;
 
+    
+}
 
 
 .post-title{
